@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          zzzzzzz너무 졸리다
+          zzzzconfigzzz너무 졸리다
         </a>
       </header>
     </div>
